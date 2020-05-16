@@ -1,0 +1,13 @@
+{
+    "editor.lineHeight": 14,
+    "editor.fontFamily": "'Ubuntu Mono derivative Powerline'",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": null,
+    "editor.wordBasedSuggestions": false,
+    "editor.quickSuggestionsDelay": 1,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+}
